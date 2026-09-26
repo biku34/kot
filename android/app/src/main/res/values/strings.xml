@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProcMon</string>
+    <string name="server_channel">ProcMon server</string>
+</resources>

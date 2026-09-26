@@ -1,0 +1,19 @@
+{
+  "name": "ProcMon — Running Apps",
+  "short_name": "ProcMon",
+  "description": "See which apps are running in the foreground and background on this device.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0f14",
+  "theme_color": "#0b0f14",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

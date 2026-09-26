@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ProcMon">
+  <rect width="512" height="512" rx="112" fill="#0b0f14"/>
+  <g fill="none" stroke="#4cc2ff" stroke-width="26" stroke-linecap="round">
+    <rect x="120" y="150" width="272" height="52" rx="14" opacity="0.35"/>
+    <rect x="120" y="230" width="272" height="52" rx="14" opacity="0.65"/>
+    <rect x="120" y="310" width="272" height="52" rx="14"/>
+  </g>
+  <circle cx="150" cy="176" r="9" fill="#3fb950"/>
+  <circle cx="150" cy="256" r="9" fill="#d29922"/>
+  <circle cx="150" cy="336" r="9" fill="#4cc2ff"/>
+</svg>

@@ -1,0 +1,12 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+# Synced PWA build output (regenerate with `npm run build && npm run sync-android`)
+/app/src/main/assets/web/_next/
